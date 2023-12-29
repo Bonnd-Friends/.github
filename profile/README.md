@@ -22,7 +22,6 @@ npm install
 npm run dev
 ```
 
-### Backend
 
 ### Backend
 
