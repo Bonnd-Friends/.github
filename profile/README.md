@@ -19,8 +19,8 @@ graph TD
   E -->|Explore| F(Explore Page)
   E -->|View Profile| G(Profile Page)
   E -->|View Matches| H(Matches Page)
-  F -->|Edit Profile| I(Edit Profile)
-  E -->|Logout| J(Logout)
+  G -->|Edit Profile| I(Edit Profile)
+  G -->|Logout| J(Logout)
 ```
 
 ## Installation
