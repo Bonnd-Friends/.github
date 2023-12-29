@@ -97,6 +97,7 @@ nodemon index.js
 <img src="https://github.com/Rcoem-Friends/.github/assets/97899868/528df546-705e-44ad-b0d9-866740d2a742" alt="Homepage" width="200" height="400"/>
 
 
+
 ### 2. Login
 
 - Users can click on the "Login" button to access the login page.
@@ -112,6 +113,8 @@ nodemon index.js
 
 <img src="https://github.com/Rcoem-Friends/.github/assets/97899868/3af6ccdb-ce84-4889-9d7a-a5cbec6ab9dc" alt="Login with Email" width="200" height="400"/>
 <img src="https://github.com/Rcoem-Friends/.github/assets/97899868/6fa5a966-1ced-4c03-96a7-5eb2c77740b7" alt="Login with OTP" width="200" height="400"/>
+<img src="https://github.com/Rcoem-Friends/.github/assets/101471692/58b89b40-559b-4213-8803-f1ce1fc56ae9)" alt="Login with OTP With OTP" width="200" height="400"/>
+
 
 
 ### 4. Registration
